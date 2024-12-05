@@ -1,0 +1,16 @@
+# Ignore the folders lectureslides and prevpapers
+LectureSlides/
+PrevPapers/
+
+# Ignore merged files
+*.zip
+
+# Ignore images and video files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp4
+*.vtt
+
+.obsidian/
