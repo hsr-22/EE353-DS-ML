@@ -5,6 +5,9 @@ PrevPapers/
 # Ignore merged files
 *.zip
 
+*.canvas
+Untitled.md
+
 # Ignore images and video files
 *.png
 *.jpg
